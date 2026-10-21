@@ -1,6 +1,6 @@
 {
-  "release": "1.0.2",
-  "security_version": 3,
-  "package_sha256": "5b810ce55ec4d189319ce46ea9e3dcac25e91ffb90abdd0407988ae9af134ee4",
-  "release_notes": "新增 VERSION 菜单，显示 FIRMWARE 1.0.2，短按或普通长按返回。包含 1.0.1 的 VERIFYING... 提示及 ATECC 唤醒恢复/诊断改动。"
+  "release": "1.0.4",
+  "security_version": 5,
+  "package_sha256": "8e543f0df6cff7f38deac59e2be557acf74c8ec6f1facbe2d2a0de50751bca25",
+  "release_notes": "ATECC 通信对照诊断：STM32 硬件 I2C2 约 50 kHz 独立读取，GPIO 100 us 唤醒与 0x00 地址唤醒两种方式，失败后等待 POST 再读；增加 GPIO 电平、OLED 硬件 ACK、HAL 错误码和唤醒返回值。移除 1.0.3 全地址扫描。仅改应用，不写 ATECC 配置/密钥/锁定位，不改保护或数据库。硬件验证待完成。"
 }
