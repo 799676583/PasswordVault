@@ -1,0 +1,7 @@
+{
+  "release": "1.0.0",
+  "security_version": 1,
+  "package_sha256": "a1729df27c14bdcdd76050cbe9a23580d60fd0c662e784de9c9d304d04187f98",
+  "status": "test-board protection and boot signature verified; full protected update and repair validation pending",
+  "release_notes": "• 支持签名固件升级，升级前在设备上输入 PIN 授权。\n• 固件更新保留密码记录区。\n• 配合安全引导程序检查固件签名和安全版本。\n注意：当前为安全升级试验版，保护后的完整升级与维修流程仍在实板验证中。\n发行版本统一为 1.0.0；沿用当前签名固件内容，内部安全版本保持为 1。"
+}
