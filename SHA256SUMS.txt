@@ -1,3 +1,3 @@
-84661adbd9b3bf79437dbd401d2bd2bbaa9d45c8e94d3ada07062cdc1bb27d34  PasswordVaultUpdate-v1.0.0.exe
+59eb9727ad8b9059a286dd29baae6a08c590a35d5186c298cada359c34454270  PasswordVaultUpdate-v1.0.1.exe
 a1729df27c14bdcdd76050cbe9a23580d60fd0c662e784de9c9d304d04187f98  firmware/vault.pvfw
 66cb65e3374fb68f3cf3ae70f98c6a1675bb1d9d4103e8fce7cca7feabd5a4f4  firmware/manifest.json
