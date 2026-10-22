@@ -1,5 +1,9 @@
 {
   "updater_version": "1.0.2",
   "firmware_version": "1.0.4",
-  "security_version": 5
+  "security_version": 5,
+  "entry": {
+    "file": "PasswordVaultEntry.exe",
+    "sha256": "0f5cce81496c4a5c081ea7a487cbbfdb0eadc6504d5a40bf2ef00b6d650a811b"
+  }
 }
